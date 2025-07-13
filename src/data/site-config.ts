@@ -83,7 +83,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkdIn',
-            href: 'www.linkedin.com/in/argenis-uribe-42365724'
+            href: 'https://www.linkedin.com/in/argenis-uribe-42365724/'
         },
         {
             text: 'Instagram',
