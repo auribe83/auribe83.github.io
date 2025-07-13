@@ -40,7 +40,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
-    title: 'Argenis Uribee',
+    title: 'Argenis Uribe',
     subtitle: 'Here it is my personal blog 🧑‍💻',
     //subtitle: 'Minimal Astro.js theme',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
@@ -95,8 +95,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "Yo soy Argenis Uribe, Ingeniero en informática con 18 años de experiencia en el area de Business Intelligence",
+        title: '¡Hola y bienvenido a mi Website!', 
+        text: "Yo soy Argenis Uribe, de profesión Ingeniero en informática,  Consultor independiente en Business Intelligence con 18 años de experiencia ayudando a empresas a transformar sus datos en decisiones estratégicas. Mi fortaleza reside en la implementación de soluciones de Business Intelligence utilizando Power BI, SQL, Pentaho Data Integration, Python y modelado de datos. Cubro todo el ciclo: desde la limpieza y transformación de información, hasta la visualización de datos clave. Me enfoco en convertir grandes volúmenes de datos en conocimientos claros y accionables para áreas críticas como ventas, finanzas, operaciones y gestión. También soy experto en la programación de scripts para bases de datos relacionales (Oracle, Microsoft SQL Server, MySQL y PostgreSQL).",
         //text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
